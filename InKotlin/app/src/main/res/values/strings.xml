@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simple Weather</string>
+    <string name="error_server_msg">Error al conectarse al servidor</string>
+    <string name="current_weather_title">Current Weather</string>
+    <string name="current_forecast_title">Current Forecast</string>
+
+    <string name="weather_temp">%.2f°C</string>
+    <string name="weather_dt">Hour: %s</string>
+    <string name="weather_humidity">Humidity: %d%%</string>
+    <string name="weather_pop">Pop: %.1f%%</string>
+    <string name="forecast_weather_title">Weather Forecast</string>
+
+</resources>

@@ -1,0 +1,18 @@
+
+<resources>
+    <color name="seed">#563000</color>
+    <color name="md_primary">#D35E20</color>
+    <color name="md_on_primary">#FFFFFF</color>
+    <color name="md_primary_container">#FFDCBE</color>
+    <color name="md_on_primary_container">#2C1600</color>
+    <color name="md_secondary">#725A42</color>
+    <color name="md_on_secondary">#FFFFFF</color>
+    <color name="md_secondary_container">#FFDCBE</color>
+    <color name="md_on_secondary_container">#291806</color>
+    <color name="md_tertiary">#58633A</color>
+    <color name="md_on_tertiary">#FFFFFF</color>
+    <color name="md_tertiary_container">#DCE8B4</color>
+    <color name="md_on_tertiary_container">#161F01</color>
+
+
+</resources>
